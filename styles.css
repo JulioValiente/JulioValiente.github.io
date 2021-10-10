@@ -1,0 +1,102 @@
+
+
+
+.indexHeader{
+ display: block;
+text-align: left;
+text-transform: uppercase;
+background-image: url("images/florence.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+padding-bottom: 19rem;
+color: #51279b;
+}
+
+.extraPageH {
+    display:block;
+    text-align: left;
+    text-transform: uppercase;
+   
+ 
+    color: #51279b;
+
+
+}
+.extraPageH h1{
+    display: inline-block;
+    text-align: left;
+    padding-top: 0em;
+
+}
+
+
+ header h1{
+  
+    display: inline-block;
+    text-align: left;
+    padding-top: 0em;
+    
+
+}
+
+header h2{
+    font-size: 48px;
+    padding-left: 1em;
+    color: white;
+}
+header h3{
+    color: white;
+    font-size: 24px;
+  
+    padding-left: 2em;
+}
+
+header h4{
+    display: inline-block;
+background-color: purple;
+color: white;
+padding: 1rem;
+margin-left: 3em;
+
+}
+
+.cardRow {
+
+text-align: left;
+
+}
+
+.singleCard{
+    display: inline-block;
+    padding: 2em;
+    width: auto;
+    height: auto;
+    padding-top: 0em;
+
+}
+
+.singleCard h1{
+    font-size: 14px;
+
+}
+.singleCard{
+    text-align: left;
+
+}
+
+.singleCard p{
+    font-size: 12px;
+
+}
+
+.landc{
+    display: inline-block;
+    font-size: 10px;
+
+}
+
+header a:hover{
+    color: #8662c7;
+
+
+}
